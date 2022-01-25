@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a backend developer aiming for cloud native.  
+I like go, python language and I am good at docker and kubernetes.  
+
+I respect the spirit of free software.
+
+Currently, it is developing a time series collection platform open source [Clymene-project](https://github.com/Clymene-project/Clymene).  
+Please pay attention to my open source [Clymene-project](https://github.com/Clymene-project/Clymene)
+
 <!--
 **bourbonkk/bourbonkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
