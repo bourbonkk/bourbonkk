@@ -5,7 +5,7 @@ I like go, python language and I am good at docker and kubernetes.
 
 I respect the spirit of free software.
 
-Currently, it is developing a time series collection platform open source [Clymene-project](https://github.com/Clymene-project/Clymene).  
+Currently, it is developing a time series and logs collection platform open source [Clymene-project](https://github.com/Clymene-project/Clymene).  
 Please pay attention to my open source [Clymene-project](https://github.com/Clymene-project/Clymene)
 
 <!--
