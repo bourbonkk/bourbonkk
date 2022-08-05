@@ -1,24 +1,7 @@
 ### Hi there 👋
 
-I am a backend developer aiming for cloud native.  
-I like go, python language and I am good at docker and kubernetes.  
-
-I respect the spirit of free software.
-
-Currently, it is developing a time series and logs collection platform open source [Clymene-project](https://github.com/Clymene-project/Clymene).  
-Please pay attention to my open source [Clymene-project](https://github.com/Clymene-project/Clymene)
-
-<!--
-**bourbonkk/bourbonkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Allen, author of The Clymen-project. I am a developer of a monitoring domain in Korea.
+I'm interested in monitoring systems in cloud environments. The evolution of the cloud requires easy identification and usage. 
+To do so, observability must be a priority.
+The clymen-project will provide monitoring systems as easily and diversely as possible in the cloud ecosystem.
+One day, it will collect metric, logs, and trace data with one-agent using eBPF and provide a useful monitoring system with simple components.
