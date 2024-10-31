@@ -31,21 +31,23 @@ I am a seasoned developer at **Kakao Corp**, dedicated to building a resilient a
 - **Clymene-Project** (Main Developer)  
   [Clymene GitHub](https://github.com/Clymene-project/Clymene)
 
+- **opentelemetry-python-contrib** (Contributor)  
+  [OpenTelemetry Python Contrib GitHub](https://github.com/open-telemetry/opentelemetry-python-contrib)
+
+- **opentelemetry-python** (Contributor)  
+  [OpenTelemetry Python GitHub](https://github.com/open-telemetry/opentelemetry-python)
+  
 - **go-druid** (Contributor)  
   [Go-Druid GitHub](https://github.com/grafadruid/go-druid)
 
 - **sonarkube** (Contributor)  
   [Sonarkube GitHub](https://github.com/kantabile/sonarkube)
 
-- **opentelemetry-python-contrib** (Contributor)  
-  [OpenTelemetry Python Contrib GitHub](https://github.com/open-telemetry/opentelemetry-python-contrib)
-
-- **opentelemetry-python** (Contributor)  
-  [OpenTelemetry Python GitHub](https://github.com/open-telemetry/opentelemetry-python)
 
 ---
 
 Feel free to connect or explore my contributions through the links above. I am passionate about enhancing performance monitoring systems and contributing to open-source projects that empower the tech community!
 
+  
 
 [![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@clymeneallen)](https://medium.com/@clymeneallen) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allen-kim-6a6861196/)](https://www.linkedin.com/in/allen-kim-6a6861196/)
