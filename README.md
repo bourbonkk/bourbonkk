@@ -50,4 +50,4 @@ Feel free to connect or explore my contributions through the links above. I am p
 
   
 
-[![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@clymeneallen)](https://medium.com/@clymeneallen) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allen-kim-6a6861196/)](https://www.linkedin.com/in/allen-kim-6a6861196/)
+[![Tech Blog Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@clymeneallen)](https://medium.com/@clymeneallen) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allen-kim-6a6861196/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-6a6861196/)
