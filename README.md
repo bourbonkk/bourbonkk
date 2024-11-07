@@ -17,7 +17,7 @@ I am a seasoned developer at **Kakao Corp**, dedicated to building a resilient a
   **March 2023**
 
 - **if Kakao AI 2024**  
-  _"Experience Developing APM Python Agents for Automatic Application Performance Instrumentation"_  
+  [_"Experience Developing APM Python Agents for Automatic Application Performance Instrumentation"_](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)  
   **October 2024**
 
 - **Sejong Cyber University**  
