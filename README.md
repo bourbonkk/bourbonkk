@@ -8,14 +8,6 @@ I am a seasoned developer at **Kakao Corp**, dedicated to building a resilient a
 
 ### 🗣️ Presentations
 
-- **Kubernetes Korea Group**  
-  _"Building a K8s Monitoring System Using the Open-Source Clymene Project"_  
-  **February 2023**
-
-- **Imply Meetup**  
-  _"Building a K8s Monitoring System Using the Open-Source Clymene Project with Druid"_  
-  **March 2023**
-
 - **if Kakao AI 2024**  
   [_"Experience Developing APM Python Agents for Automatic Application Performance Instrumentation"_](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)  
   **October 2024**
@@ -24,9 +16,20 @@ I am a seasoned developer at **Kakao Corp**, dedicated to building a resilient a
   _"Understanding and Utilizing Kubernetes"_  
   _"Open Source Programming: All About Docker"_
 
+- **Imply Meetup**  
+  _"Building a K8s Monitoring System Using the Open-Source Clymene Project with Druid"_  
+  **March 2023**
+
+- **Kubernetes Korea Group**  
+  _"Building a K8s Monitoring System Using the Open-Source Clymene Project"_  
+  **February 2023**
+
 ---
 
 ### 💻 Open Source Contributions
+
+- **k8s-pilot** (Main Developer)  
+  [k8s-pilot GitHub](https://github.com/bourbonkk/k8s-pilot)
 
 - **Clymene-Project** (Main Developer)  
   [Clymene GitHub](https://github.com/Clymene-project/Clymene)
