@@ -46,8 +46,6 @@ I am a seasoned developer at **Kakao Corp**, dedicated to building a resilient a
 - **sonarkube** (Contributor)  
   [Sonarkube GitHub](https://github.com/kantabile/sonarkube)
 
-- **android-ffmpeg64bit-example** (Main Developer)  
-  [android-ffmpeg64bit-example](https://github.com/bourbonkk/android-ffmpeg64bit-example)
 ---
 
 Feel free to connect or explore my contributions through the links above. I am passionate about enhancing performance monitoring systems and contributing to open-source projects that empower the tech community!
