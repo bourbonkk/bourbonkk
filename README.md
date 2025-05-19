@@ -1,5 +1,11 @@
 # Allen Kim
 
+🔍 Looking for collaborators!
+I'm building a web platform that delivers investment insights — aggregating data, visualizing trends, and helping users make smarter financial decisions.
+If you're interested in finance, data analysis, or web development (especially frontend/backend with Python, JavaScript, or any relevant stack), I'd love to connect and collaborate.
+
+Feel free to reach out via issues or pull requests — or just message me directly. Let's build something meaningful together!
+
 ### Developer at Kakao Corp | Performance Analytics Specialist | Go, Python, Java | Kubernetes & Monitoring Expert
 
 I am a seasoned developer at **Kakao Corp**, dedicated to building a resilient and scalable performance analytics monitoring solution that serves Kakao and over a hundred of its subsidiaries. With expertise in **Go**, **Python**, and **Java** development, I bring extensive experience in **Kubernetes** and **monitoring systems** to every project.
