@@ -15,6 +15,12 @@
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+  <i>"Observability is not just about collecting data — it's about understanding systems."</i>
+</div>
+
+<br/>
+
 > **Software Engineer @ [Kakao Corp](https://www.kakaocorp.com/)** — Building resilient, scalable **performance analytics & monitoring** solutions serving Kakao and 100+ subsidiaries.
 
 I specialize in **observability infrastructure** — from APM agents to distributed tracing pipelines. I'm passionate about **eBPF**, **OpenTelemetry**, and making complex systems transparent.
@@ -88,8 +94,6 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 <img src="https://komarev.com/ghpvc/?username=bourbonkk&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
-
-_"Observability is not just about collecting data — it's about understanding systems."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:79c0ff&height=100&section=footer&fontSize=0" width="100%"/>
 
