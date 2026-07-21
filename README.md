@@ -47,8 +47,8 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 ## 🚀 Projects & Contributions
 
 **Main Developer**
-- [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — Kubernetes Control Plane Server for Managing Multiple Clusters – the central pilot for your k8s fleets.
-- [**Clymene**](https://github.com/Clymene-project/Clymene) — A time-series data and logs collection platform designed for distributed systems.
+- [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — MCP (Model Context Protocol) for managing multiple Kubernetes clusters. The central pilot for your K8s fleets.
+- [**Clymene**](https://github.com/Clymene-project/Clymene) *(Deprecated)* — Time-series data collection platform supporting various data pipelines.
 
 **Core Contributions**
 - [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code OpenTelemetry instrumentation powered by eBPF.
