@@ -1,13 +1,12 @@
 <div align="center">
 
-<h1 align="center">👋 Hi, I'm Allen Kim</h1>
+<h1 align="center">
+  👋 Hi, I'm Allen Kim
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-6a6861196/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" /></a>
+</h1>
 
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Performance+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-6a6861196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 </div>
 
