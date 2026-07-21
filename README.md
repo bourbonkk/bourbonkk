@@ -53,7 +53,8 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 
 **Core Contributions**
 - [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code OpenTelemetry instrumentation powered by eBPF.
-- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) & [**contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — OpenTelemetry API, SDK, and comprehensive instrumentation packages for Python.
+- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) — Core OpenTelemetry API and SDK implementation for Python.
+- [**opentelemetry-python-contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — Comprehensive instrumentation packages and extensions for Python.
 - [**go-druid**](https://github.com/grafadruid/go-druid) — A robust Go client implementation for interacting with Apache Druid.
 
 <br/>
