@@ -42,108 +42,28 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 
 <br/>
 
-## 🚀 Open Source Projects
+## 🚀 Projects & Contributions
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+**Main Developer**
+- 🛸 [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — Kubernetes Cluster Management Tool
+- 📊 [**Clymene**](https://github.com/Clymene-project/Clymene) — Time-series Data Observability Platform
 
-### 🛸 [k8s-pilot](https://github.com/bourbonkk/k8s-pilot)
-**Kubernetes Cluster Management Tool**<br/>
-<sub>Main Developer</sub><br/><br/>
-![Stars](https://img.shields.io/github/stars/bourbonkk/k8s-pilot?style=social)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 📊 [Clymene](https://github.com/Clymene-project/Clymene)
-**Time-series Data Observability Platform**<br/>
-<sub>Main Developer</sub><br/><br/>
-![Stars](https://img.shields.io/github/stars/Clymene-project/Clymene?style=social)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## 🌍 Open Source Contributions
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![opentelemetry-ebpf](https://img.shields.io/badge/OTel_eBPF-FF6600?style=flat-square&logo=opentelemetry&logoColor=white)](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation)
-<br/><sub><b>opentelemetry-ebpf-instrumentation</b></sub>
-<br/><sub>Zero-code instrumentation powered by eBPF</sub>
-
-</td>
-<td align="center" width="33%">
-
-[![opentelemetry-python-contrib](https://img.shields.io/badge/OTel_Python_Contrib-3776AB?style=flat-square&logo=opentelemetry&logoColor=white)](https://github.com/open-telemetry/opentelemetry-python-contrib)
-<br/><sub><b>opentelemetry-python-contrib</b></sub>
-<br/><sub>OTel Python instrumentation packages</sub>
-
-</td>
-<td align="center" width="33%">
-
-[![opentelemetry-python](https://img.shields.io/badge/OTel_Python-3776AB?style=flat-square&logo=opentelemetry&logoColor=white)](https://github.com/open-telemetry/opentelemetry-python)
-<br/><sub><b>opentelemetry-python</b></sub>
-<br/><sub>OTel API & SDK for Python</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-[![go-druid](https://img.shields.io/badge/go--druid-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/grafadruid/go-druid)
-<br/><sub><b>go-druid</b></sub>
-<br/><sub>Go client for Apache Druid</sub>
-
-</td>
-<td align="center" width="33%">
-
-[![sonarkube](https://img.shields.io/badge/sonarkube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)](https://github.com/kantabile/sonarkube)
-<br/><sub><b>sonarkube</b></sub>
-<br/><sub>SonarQube integration for Kubernetes</sub>
-
-</td>
-<td align="center" width="33%">
-
-&nbsp;
-
-</td>
-</tr>
-</table>
-</div>
+**Core Contributions**
+- 🔭 [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code instrumentation powered by eBPF
+- 🐍 [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) & [**contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — OTel API & SDK for Python
+- 💧 [**go-druid**](https://github.com/grafadruid/go-druid) — Go client for Apache Druid
+- 🐳 [**sonarkube**](https://github.com/kantabile/sonarkube) — SonarQube integration for Kubernetes
 
 <br/>
 
 ## 🗣️ Conference Talks
 
-| Date | Event | Topic |
-|:----:|:------|:------|
-| **2025. 8** | **PyCon Korea 2025** | _"Jarvis, What's Wrong with My Service? A Journey into NL-Based Ops and MCP Development"_ |
-| **2024. 10** | **[if(kakao) AI 2024](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)** | _"Experience Developing APM Python Agents for Automatic Performance Instrumentation"_ |
-| **2024. 2** | **Sejong Cyber University** | _"Understanding and Utilizing Kubernetes"_ |
-| **2023. 11** | **Sejong Cyber University** | _"Open Source Programming: All About Docker"_ |
-| **2023. 3** | **Imply Meetup** | _"Building a K8s Monitoring System Using Clymene with Druid"_ |
-| **2023. 2** | **Kubernetes Korea Group** | _"Building a K8s Monitoring System Using Clymene"_ |
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/bourbonkk">
-    <img src="https://github-profile-trophy.vercel.app/?username=bourbonkk&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
+- **`2025. 08`** ｜ **PyCon Korea 2025** — _"Jarvis, What's Wrong with My Service? A Journey into NL-Based Ops and MCP Development"_
+- **`2024. 10`** ｜ **[if(kakao) AI 2024](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)** — _"Experience Developing APM Python Agents for Automatic Performance Instrumentation"_
+- **`2024. 02`** ｜ **Sejong Cyber University** — _"Understanding and Utilizing Kubernetes"_
+- **`2023. 11`** ｜ **Sejong Cyber University** — _"Open Source Programming: All About Docker"_
+- **`2023. 03`** ｜ **Imply Meetup** — _"Building a K8s Monitoring System Using Clymene with Druid"_
+- **`2023. 02`** ｜ **Kubernetes Korea Group** — _"Building a K8s Monitoring System Using Clymene"_
 
 <br/>
 
