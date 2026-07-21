@@ -128,29 +128,38 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 
 | Date | Event | Topic |
 |:----:|:------|:------|
-| 🗓 **Aug 2025** | **PyCon Korea 2025** | _"Jarvis, What's Wrong with My Service? A Journey into NL-Based Ops and MCP Development"_ |
-| 🗓 **Oct 2024** | **[if(kakao) AI 2024](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)** | _"Experience Developing APM Python Agents for Automatic Performance Instrumentation"_ |
-| 🎓 | **Sejong Cyber University** | _"Understanding and Utilizing Kubernetes"_ · _"Open Source Programming: All About Docker"_ |
-| 🗓 **Mar 2023** | **Imply Meetup** | _"Building a K8s Monitoring System Using Clymene with Druid"_ |
-| 🗓 **Feb 2023** | **Kubernetes Korea Group** | _"Building a K8s Monitoring System Using Clymene"_ |
+| **2025. 8** | **PyCon Korea 2025** | _"Jarvis, What's Wrong with My Service? A Journey into NL-Based Ops and MCP Development"_ |
+| **2024. 10** | **[if(kakao) AI 2024](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)** | _"Experience Developing APM Python Agents for Automatic Performance Instrumentation"_ |
+| **2024. 2** | **Sejong Cyber University** | _"Understanding and Utilizing Kubernetes"_ |
+| **2023. 11** | **Sejong Cyber University** | _"Open Source Programming: All About Docker"_ |
+| **2023. 3** | **Imply Meetup** | _"Building a K8s Monitoring System Using Clymene with Druid"_ |
+| **2023. 2** | **Kubernetes Korea Group** | _"Building a K8s Monitoring System Using Clymene"_ |
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bourbonkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourbonkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bourbonkk&theme=tokyonight&hide_border=true&background=1A1B27&ring=58A6FF&fire=FF6600&currStreakLabel=79C0FF" alt="GitHub Streak" />
+  <a href="https://github.com/bourbonkk">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bourbonkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/bourbonkk">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourbonkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=340&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bourbonkk&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph" />
+  <a href="https://github.com/bourbonkk">
+    <img src="https://streak-stats.demolab.com?user=bourbonkk&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6600&currStreakLabel=79C0FF" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bourbonkk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph" />
 </div>
 
 <br/>
