@@ -141,10 +141,10 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 
 <div align="center">
   <a href="https://github.com/bourbonkk">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bourbonkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=400" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bourbonkk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/bourbonkk">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourbonkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=340&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourbonkk&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
@@ -152,7 +152,7 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 
 <div align="center">
   <a href="https://github.com/bourbonkk">
-    <img src="https://streak-stats.demolab.com?user=bourbonkk&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6600&currStreakLabel=79C0FF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bourbonkk&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
