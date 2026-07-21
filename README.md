@@ -5,11 +5,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-6a6861196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@clymeneallen"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://github.com/bourbonkk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:79c0ff&height=120&section=header&fontSize=0" width="100%"/>
 
 </div>
 
@@ -51,13 +47,13 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 ## 🚀 Projects & Contributions
 
 **Main Developer**
-- [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — Kubernetes Cluster Management Tool
-- [**Clymene**](https://github.com/Clymene-project/Clymene) — Time-series Data Observability Platform
+- [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — Kubernetes Control Plane Server for Managing Multiple Clusters – the central pilot for your k8s fleets.
+- [**Clymene**](https://github.com/Clymene-project/Clymene) — A time-series data and logs collection platform designed for distributed systems.
 
 **Core Contributions**
-- [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code instrumentation powered by eBPF
-- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) & [**contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — OTel API & SDK for Python
-- [**go-druid**](https://github.com/grafadruid/go-druid) — Go client for Apache Druid
+- [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code OpenTelemetry instrumentation powered by eBPF.
+- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) & [**contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — OpenTelemetry API, SDK, and comprehensive instrumentation packages for Python.
+- [**go-druid**](https://github.com/grafadruid/go-druid) — A robust Go client implementation for interacting with Apache Druid.
 
 <br/>
 
@@ -93,7 +89,5 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 <img src="https://komarev.com/ghpvc/?username=bourbonkk&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:79c0ff&height=100&section=footer&fontSize=0" width="100%"/>
 
 </div>
