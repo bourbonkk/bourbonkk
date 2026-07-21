@@ -51,20 +51,20 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 ## 🚀 Projects & Contributions
 
 **Main Developer**
-- 🛸 [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — Kubernetes Cluster Management Tool
-- 📊 [**Clymene**](https://github.com/Clymene-project/Clymene) — Time-series Data Observability Platform
+- [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — Kubernetes Cluster Management Tool
+- [**Clymene**](https://github.com/Clymene-project/Clymene) — Time-series Data Observability Platform
 
 **Core Contributions**
-- 🔭 [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code instrumentation powered by eBPF
-- 🐍 [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) & [**contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — OTel API & SDK for Python
-- 💧 [**go-druid**](https://github.com/grafadruid/go-druid) — Go client for Apache Druid
+- [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code instrumentation powered by eBPF
+- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) & [**contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — OTel API & SDK for Python
+- [**go-druid**](https://github.com/grafadruid/go-druid) — Go client for Apache Druid
 
 <br/>
 
 ## 🗣️ Conference Talks
 
 - **`2025. 08`** ｜ **PyCon Korea 2025** — [_**"Jarvis, What's Wrong with My Service? A Journey into NL-Based Ops and MCP Development"**_]()
-- **`2024. 10`** ｜ **[if(kakao) AI 2024](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)** — _"Experience Developing APM Python Agents for Automatic Performance Instrumentation"_
+- **`2024. 10`** ｜ **if(kakao) AI 2024** — [_**"Experience Developing APM Python Agents for Automatic Performance Instrumentation"**_](https://youtu.be/Ruc1_PusHug?si=d36dv07WPHYKuuBe)
 - **`2024. 02`** ｜ **Sejong Cyber University** — _"Understanding and Utilizing Kubernetes"_
 - **`2023. 11`** ｜ **Sejong Cyber University** — _"Open Source Programming: All About Docker"_
 - **`2023. 03`** ｜ **Imply Meetup** — _"Building a K8s Monitoring System Using Clymene with Druid"_
