@@ -137,14 +137,11 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
   <a href="https://github.com/bourbonkk">
-    <img src="https://github-readme-stats.vercel.app/api?username=bourbonkk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/bourbonkk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourbonkk&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bourbonkk&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
