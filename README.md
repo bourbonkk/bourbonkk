@@ -60,9 +60,6 @@ I'm a member of the [OpenTelemetry](https://github.com/open-telemetry) organizat
 - [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) — core OpenTelemetry API and SDK for Python.
 - [**opentelemetry-collector-releases**](https://github.com/open-telemetry/opentelemetry-collector-releases) — Collector distributions.
 
-**Other Open Source**
-- [**go-druid**](https://github.com/grafadruid/go-druid) — a robust Go client implementation for interacting with Apache Druid.
-
 <br/>
 
 ## 🗣️ Conference Talks
