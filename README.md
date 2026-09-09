@@ -3,10 +3,11 @@
 <h1 align="center">
   👋 Hi, I'm Allen Kim
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-6a6861196/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" /></a>
+  <a href="https://github.com/open-telemetry"><img src="https://img.shields.io/badge/-OpenTelemetry%20Member-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry Organization Member" style="vertical-align: middle;" /></a>
 </h1>
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Performance+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Performance+Engineer;OpenTelemetry+Organization+Member;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,6 +22,8 @@
 > **Software Engineer @ [Kakao Corp](https://www.kakaocorp.com/)** — Building resilient, scalable **performance analytics & monitoring** solutions serving Kakao and 100+ subsidiaries.
 
 I specialize in **observability infrastructure** — from APM agents to distributed tracing pipelines. I'm passionate about **eBPF**, **OpenTelemetry**, and making complex systems transparent.
+
+I'm a member of the [OpenTelemetry](https://github.com/open-telemetry) organization, contributing to the **Python** and **eBPF Instrumentation** SIGs.
 
 <br/>
 
@@ -51,11 +54,14 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 - [**k8s-pilot**](https://github.com/bourbonkk/k8s-pilot) — MCP (Model Context Protocol) for managing multiple Kubernetes clusters. The central pilot for your K8s fleets.
 - [**Clymene**](https://github.com/Clymene-project/Clymene) *(Deprecated)* — Time-series data collection platform supporting various data pipelines.
 
-**Core Contributions**
-- [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — Zero-code OpenTelemetry instrumentation powered by eBPF.
-- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) — Core OpenTelemetry API and SDK implementation for Python.
-- [**opentelemetry-python-contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — Comprehensive instrumentation packages and extensions for Python.
-- [**go-druid**](https://github.com/grafadruid/go-druid) — A robust Go client implementation for interacting with Apache Druid.
+**OpenTelemetry** — organization member, contributing to the Python and eBPF Instrumentation SIGs
+- [**opentelemetry-ebpf-instrumentation**](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) — zero-code OpenTelemetry instrumentation powered by eBPF.
+- [**opentelemetry-python-contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib) — instrumentation packages and extensions for Python. Author of the asyncio instrumentation.
+- [**opentelemetry-python**](https://github.com/open-telemetry/opentelemetry-python) — core OpenTelemetry API and SDK for Python.
+- [**opentelemetry-collector-releases**](https://github.com/open-telemetry/opentelemetry-collector-releases) — Collector distributions.
+
+**Other Open Source**
+- [**go-druid**](https://github.com/grafadruid/go-druid) — a robust Go client implementation for interacting with Apache Druid.
 
 <br/>
 
@@ -67,4 +73,3 @@ I specialize in **observability infrastructure** — from APM agents to distribu
 - **`2023. 11`** ｜ **Sejong Cyber University** — _"Open Source Programming: All About Docker"_
 - **`2023. 03`** ｜ **Imply Meetup** — _"Building a K8s Monitoring System Using Clymene with Druid"_
 - **`2023. 02`** ｜ **Kubernetes Korea Group** — _"Building a K8s Monitoring System Using Clymene"_
-
